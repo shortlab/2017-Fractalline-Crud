@@ -1,0 +1,14 @@
+brightness 0
+contrast 45-55?
+
+signal1
+
+z = 35.186
+
+
+
+Z`=31.251
+B = 0 
+C `= 52.1
+EHT = 8
+WD10
